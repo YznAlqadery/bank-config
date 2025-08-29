@@ -9,7 +9,7 @@ build:
 
 
 cards:
-  message: "Welcome to Cards Service related to Production environment"
+  message: "Welcome to Cards Service related to PROD environment"
   contact:
     name: "Ra'ad Obaidat"
     email: "raad.obaidat@gmail.com"
@@ -17,3 +17,4 @@ cards:
     - (761) 331-2222
 
     - (662) 198-2312
+
