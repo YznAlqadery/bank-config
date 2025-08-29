@@ -7,7 +7,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Accounts Service related to PROD environment"
+  message: "Welcome to Accounts Service related to Production environment"
   contact:
     name: "Rashed Alsyouf - Product Owner"
     email: "{cipher}78a0a57b010c4cdf9fc6906613783b9ed2c6c884dab88471a7dde79ae080932744fef7e3fa39f1c66dc4a1d2580e77a0"
@@ -15,3 +15,4 @@ accounts:
     - (777) 123-4567
 
     - (777) 123-4568
+
