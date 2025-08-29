@@ -9,7 +9,7 @@ build:
 
 
 cards:
-  message: "Welcome to Cards Service related to Webhooks Prod environment"
+  message: "Welcome to Cards Service related to Prod environment"
   contact:
     name: "Ra'ad Obaidat"
     email: "raad.obaidat@gmail.com"
@@ -17,5 +17,6 @@ cards:
     - (761) 331-2222
 
     - (662) 198-2312
+
 
 
