@@ -8,7 +8,7 @@ build:
 
 
 loans:
-  message: "Welcome to loans service related to the Production environment"
+  message: "Welcome to loans service related to the PROD environment"
   contact:
     name: "John Doe"
     email: "john.doe@gmail.com"
@@ -16,3 +16,4 @@ loans:
     - (555) 555-5555
 
     - (555) 555-5556
+
